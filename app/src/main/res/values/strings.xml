@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Plant App</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="description">Deskripsi</string>
+    <string name="imgdesc">imgdesc</string>
+    <string name="name">name</string>
+    <string name="username">username</string>
+    <string name="repository">repository</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+    <string name="company">company</string>
+    <string name="location">location</string>
+    <string name="detail_image">detail_image</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="name_about">Kacung Samsul Hadi</string>
+    <string name="email_about">adisamsul38.sh@gmail.com</string>
+    <string name="imgDes">avatar_about</string>
+
+    <string-array name="username">
+        <item>AloeVera</item>
+        <item>Sansevieria</item>
+        <item>AdiantumPeruvianum</item>
+        <item>EcheveriaElegans</item>
+        <item>CereusPeruvianus</item>
+        <item>DracaenaDeremensis</item>
+        <item>Peperomia Obtusifolia</item>
+        <item>SenecioRowleyanus</item>
+        <item>FenestrariaRhopalophylla</item>
+        <item>SpiderPlant</item>
+    </string-array>
+
+    <string-array name="name">
+        <item>Lidah Buaya</item>
+        <item>Lidah Mertua</item>
+        <item>Suplir</item>
+        <item>Sukulen Echeveria</item>
+        <item>Kaktus</item>
+        <item>Sri Rejeki</item>
+        <item>Peperomia</item>
+        <item>Sukulen Tasbih</item>
+        <item>Sukulen Baby Toes</item>
+        <item>Lili Paris</item>
+    </string-array>
+
+    <string-array name="location">
+        <item>Aloe vera atau lidah buaya bermanfaat untuk membersihkan udara dari formaldehida dan benzena. Letakkan lidah buaya di kamar tidur. Tanaman ini akan menyerap partikel dari cat dan cairan pembersih ruangan dengan baik. Lidah buaya juga mudah dirawat. Tanaman ini tidak memerlukan perlakuan khusus. Hanya perlu disiram sesekali. Pasalnya, tanaman ini tak suka tanah yang terlalu lembap.</item>
+        <item>Lidah mertua atau snake plant juga sangat mudah perawatannya. Tak hanya itu, tanaman ini juga mampu membersihkan udara. Dilansir Lifehack, lidah mertua bisa menyerap xilena, toluena, dan trikloretilena dari udara di rumah. Lidah mertua termasuk tanaman hias tahan banting. Mereka tak membutuhkan pencahayaan khusus. Jika terpaksa, Anda bahkan bisa meninggalkannya sampai berhari-hari dan dia tak akan layu.</item>
+        <item>Adiantum cuneantum atau biasa disebut dengan tanaman suplir merupakan jenis tanaman hias yang memiliki ukuran daun kecil, majemuk dan berwarna hijau segar. Tanaman ini menyukai tempat yang lembap, udara bersih, dan sedikit sinar matahari. Suplir bisa diletakkan di sudut ruangan yang terekspos sedikit sinar matahari. Cukup jaga kelembapan tanahnya dan Anda bisa memeliharanya sampai bertahun-tahun.</item>
+        <item>Echeveria adalah jenis sukulen yang paling populer sebagai tanaman hias indoor. Ukurannya yang mungil menjadikan tanaman ini cocok dipelihara di pot-pot mini. Sukulen echeveria tak perlu sering disiram. Malah mereka bisa mati jika kelebihan air. Cukup siram sukulen saat tanahnya sudah benar-benar kering.</item>
+        <item>Ketahanan tanaman kaktus terhadap perubahan cuaca dan kelembapan yang rendah tidak perlu diragukan lagi. Tanaman ini sangat mudah dirawat. Anda bahkan tak perlu menyiramnya setiap hari. Jenis kaktus yang cocok ditanam di pot antara lain Ariocarpus, Astrophytum, Cereus tetragonus, Echinocactus grusonii, dan Haworthia attenuata. Walaupun begitu, pastikan untuk menjauhkan tanaman kaktus dari jangkauan anak-anak.</item>
+        <item>Dracaena janet craig atau sri rejeki, tanaman bernama latin Dracaena deremensis ini mampu menyerap xilena, trikloroetilen, dan formaldehida dari udara di sekitarnya. Sri rejeki menyukai siraman cahaya matahari tidak langsung. Sirami seminggu sekali agar akarnya tidak membusuk karena penyiraman berlebihan.</item>
+        <item>Peperomia termasuk jenis tanaman hias yang dikenal sebagai tanaman abadi. Tanaman in memiliki daun tumpul tebal dengan tekstur seperti karet. Lebih dari 1.500 spesies, dengan jenis yang umum sering ditanam sebagai tanaman hias berkelompok.</item>
+        <item>Jenis sukulen lain yang bisa ditanam di dekat jendela adalah sukulen tasbih atau String of Pearls. Tanaman ini termasuk jenis sukulen dengan batang panjang dan daun mirip butiran tasbih yang menjulur ke bawah.</item>
+        <item>Baby toes tumbuh baik di tanah kering, karena dia merupakan tanaman jenis sukulen. Sama seperti tanaman sukulen lainnya, Baby toes sebaiknya tidak disiram sering-sering. Cukup satu sampai dua kali dalam seminggu. Cara paling aman untuk mencegah overwatering adalah menyiramnya saat tanah media tanam sudah kering.</item>
+        <item>Chlorophytum comosum atau dikenal dengan nama lili Paris dan spider plant merupakan tanaman hias yang cocok untuk pemula. Terutama jika Anda tak terlalu telaten dalam merawat tumbuhan.</item>
+    </string-array>
+
+    <string-array name="repository">
+        <item>102</item>
+        <item>37</item>
+        <item>9</item>
+        <item>30</item>
+        <item>56</item>
+        <item>28</item>
+        <item>44</item>
+        <item>110</item>
+        <item>1064</item>
+        <item>65</item>
+    </string-array>
+
+    <string-array name="company">
+        <item>Africa</item>
+        <item>South Asia</item>
+        <item>South America</item>
+        <item>Mexico</item>
+        <item>North America</item>
+        <item>Indonesia</item>
+        <item>South America</item>
+        <item>Southwest Africa</item>
+        <item>Southwest Africa</item>
+        <item>Africa</item>
+    </string-array>
+
+    <string-array name="followers">
+        <item>80</item>
+        <item>50</item>
+        <item>75</item>
+        <item>65</item>
+        <item>45</item>
+        <item>80</item>
+        <item>55</item>
+        <item>60</item>
+        <item>65</item>
+        <item>70</item>
+    </string-array>
+
+    <string-array name="following">
+        <item>250</item>
+        <item>200</item>
+        <item>300</item>
+        <item>250</item>
+        <item>350</item>
+        <item>200</item>
+        <item>250</item>
+        <item>240</item>
+        <item>299</item>
+        <item>300</item>
+    </string-array>
+
+    <string-array name="img">
+        <item>@drawable/img1</item>
+        <item>@drawable/img2</item>
+        <item>@drawable/img3</item>
+        <item>@drawable/img4</item>
+        <item>@drawable/img5</item>
+        <item>@drawable/img6</item>
+        <item>@drawable/img7</item>
+        <item>@drawable/img8</item>
+        <item>@drawable/img9</item>
+        <item>@drawable/img10</item>
+    </string-array>
+</resources>

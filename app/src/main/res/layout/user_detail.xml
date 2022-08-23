@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="16dp"
+    tools:context=".UserDetail">
+
+
+    <ImageView
+        android:id="@+id/detail_img"
+        android:layout_width="153dp"
+        android:layout_height="186dp"
+        android:layout_marginTop="20dp"
+        android:contentDescription="@string/detail_image" />
+
+    <TextView
+        android:id="@+id/detail_username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/detail_img"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_toEndOf="@+id/detail_img"
+        android:text="@string/username"
+        android:textSize="24sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/detail_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/detail_username"
+        android:layout_alignStart="@+id/detail_username"
+        android:layout_alignEnd="@+id/detail_username"
+        android:layout_marginTop="8dp"
+        android:layout_toEndOf="@+id/detail_username"
+        android:ellipsize="end"
+        android:maxLines="3"
+        android:text="@string/name"
+        android:textSize="18sp" />
+
+<!--    <TextView-->
+<!--        android:id="@+id/detail_repository"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_below="@+id/detail_followers"-->
+<!--        android:layout_alignStart="@+id/detail_username"-->
+<!--        android:layout_alignEnd="@+id/detail_username"-->
+<!--        android:layout_marginStart="0dp"-->
+<!--        android:layout_marginTop="8dp"-->
+<!--        android:layout_marginEnd="0dp"-->
+<!--        android:ellipsize="end"-->
+<!--        android:maxLines="3"-->
+<!--        android:text="@string/repository" />-->
+
+    <TextView
+        android:id="@+id/detail_followers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/detail_following"
+        android:layout_alignStart="@+id/detail_username"
+        android:layout_alignEnd="@+id/detail_username"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="0dp"
+        android:ellipsize="end"
+        android:maxLines="3"
+        android:text="@string/followers" />
+
+    <TextView
+        android:id="@+id/detail_following"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/detail_company"
+        android:layout_alignStart="@+id/detail_username"
+        android:layout_alignEnd="@+id/detail_username"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="0dp"
+        android:ellipsize="end"
+        android:maxLines="3"
+        android:text="@string/following" />
+
+    <TextView
+        android:id="@+id/detail_company"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/detail_name"
+        android:layout_alignStart="@+id/detail_username"
+        android:layout_alignEnd="@+id/detail_username"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="5dp"
+        android:ellipsize="end"
+        android:maxLines="3"
+        android:text="@string/company" />
+
+    <TextView
+        android:id="@+id/detail_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editTextTextPersonName"
+        android:layout_marginTop="8dp"
+        android:ellipsize="end"
+        android:text="@string/location"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/editTextTextPersonName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/detail_img"
+        android:layout_alignEnd="@+id/detail_username"
+        android:layout_marginTop="8dp"
+        android:ems="10"
+        android:text="@string/deskripsi"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>
